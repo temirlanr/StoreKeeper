@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ws-table-all tr {
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+tr {
+  border-color: black;
+  text-align: left;
+}
+
+table {
+  font-size: 16px;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+.ws-table-all {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  display: table;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+h1 {
+  color: red;
+}
